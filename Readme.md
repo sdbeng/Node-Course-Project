@@ -1,0 +1,9 @@
+#Node Course App
+Basics server code here, foo bar, etc,etc..
+
+##Issuing a request
+Let's see our new server in action. We've already run node app.js, so in the terminal below use curl to issue a request to http://localhost:8080 and we'll see our server respond with the contents of index.html.
+
+```
+curl http://localhost:8080
+```
